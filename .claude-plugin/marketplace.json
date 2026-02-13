@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Ship hundreds of SEO-optimized pages from a single data source. Next.js App Router + Supabase.",
   "owner": {
-    "name": "ShipStack",
-    "email": "jacob.ballard3@gmail.com"
+    "name": "ShipStack"
   },
   "metadata": {
     "description": "Production-tested programmatic SEO architecture with 7 page types, 8 schema components, AI content generation, and launch checklist.",
@@ -16,8 +15,7 @@
       "description": "Complete programmatic SEO system with Next.js App Router + Supabase. 7 page types, 8 schema components, AI content generation, and launch checklist.",
       "version": "1.0.0",
       "author": {
-        "name": "ShipStack",
-        "email": "jacob.ballard3@gmail.com"
+        "name": "ShipStack"
       },
       "source": "./",
       "category": "marketing",
