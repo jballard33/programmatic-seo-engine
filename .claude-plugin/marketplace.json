@@ -24,7 +24,7 @@
       "tags": ["seo", "programmatic-seo", "next.js", "supabase", "schema-markup", "sitemap"],
       "strict": false,
       "skills": [
-        "./programmatic-seo"
+        "./skills/programmatic-seo"
       ]
     }
   ]
