@@ -1,10 +1,14 @@
 {
   "name": "programmatic-seo-engine",
   "version": "1.0.0",
-  "description": "Ship hundreds of SEO-optimized pages from a single data source",
+  "description": "Ship hundreds of SEO-optimized pages from a single data source. Next.js App Router + Supabase.",
   "owner": {
     "name": "ShipStack",
     "email": "jacob.ballard3@gmail.com"
+  },
+  "metadata": {
+    "description": "Production-tested programmatic SEO architecture with 7 page types, 8 schema components, AI content generation, and launch checklist.",
+    "version": "1.0.0"
   },
   "plugins": [
     {
@@ -15,8 +19,13 @@
         "name": "ShipStack",
         "email": "jacob.ballard3@gmail.com"
       },
-      "source": "./programmatic-seo",
-      "category": "marketing"
+      "source": "./",
+      "category": "marketing",
+      "tags": ["seo", "programmatic-seo", "next.js", "supabase", "schema-markup", "sitemap"],
+      "strict": false,
+      "skills": [
+        "./programmatic-seo"
+      ]
     }
   ]
 }

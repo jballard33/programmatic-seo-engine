@@ -1,21 +1,11 @@
+---
+name: programmatic-seo-engine
+description: When the user wants to build programmatic SEO pages, create directory sites, generate hundreds of SEO-optimized pages from a data source, or build location/entity/glossary/comparison pages at scale. Also use when the user mentions "programmatic SEO," "pSEO," "directory site," "auto-generated pages," "SEO at scale," "dynamic sitemap," "schema markup," "location pages," or "content generation pipeline." Uses Next.js App Router + Supabase.
+---
+
 # Programmatic SEO Engine
 
 > Ship hundreds of SEO-optimized pages from a single data source. Production-tested architecture that actually ranks.
-
----
-
-## Metadata
-
-- **Name**: Programmatic SEO Engine
-- **Version**: 1.0.0
-- **Author**: Jacob Ballard
-- **Type**: skill
-- **Price**: $19
-- **Tags**: seo, programmatic-seo, next.js, directory, schema-markup, sitemap
-- **Framework**: Next.js 14+ (App Router)
-- **Required Tools**: exec, web_search, file_write, file_read
-
----
 
 ## What This Skill Does
 
